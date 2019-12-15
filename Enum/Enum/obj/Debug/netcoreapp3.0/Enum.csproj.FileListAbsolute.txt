@@ -1,0 +1,11 @@
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\bin\Debug\netcoreapp3.0\Enum.exe
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\bin\Debug\netcoreapp3.0\Enum.deps.json
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\bin\Debug\netcoreapp3.0\Enum.runtimeconfig.json
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\bin\Debug\netcoreapp3.0\Enum.runtimeconfig.dev.json
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\bin\Debug\netcoreapp3.0\Enum.dll
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\bin\Debug\netcoreapp3.0\Enum.pdb
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\obj\Debug\netcoreapp3.0\Enum.csprojAssemblyReference.cache
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\obj\Debug\netcoreapp3.0\Enum.AssemblyInfoInputs.cache
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\obj\Debug\netcoreapp3.0\Enum.AssemblyInfo.cs
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\obj\Debug\netcoreapp3.0\Enum.dll
+C:\Users\hao\source\repos\Learning c#\Enum\Enum\obj\Debug\netcoreapp3.0\Enum.pdb
