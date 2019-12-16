@@ -1,0 +1,22 @@
+Question that need be asked:
+1. What do you expect your code to do ?
+2. What happen instead ?
+
+Exception: 
+Error when running the code.
+Solution: Use debugger tool that is built in.
+
+1. Check for Typos
+2. Check for unexpected code.
+
+
+When writing code, start small, and start with code that works!
+(Good sample code is helpful here.) Sometimes, it is easier to fix
+a large or complicated set of code by starting with a small piece of code 
+that demonstrates the core task you are trying to achieve.
+Then, you can modify or add code incrementally, testing at each point for errors.
+
+Some debuggin technique:
+1. Rubber duck debugging
+
+https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019
